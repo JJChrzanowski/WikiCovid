@@ -9,6 +9,7 @@ daynorm/
 old_processed/
 original/
 raw/
+julia_new/
 
 # C extensions
 *.so
